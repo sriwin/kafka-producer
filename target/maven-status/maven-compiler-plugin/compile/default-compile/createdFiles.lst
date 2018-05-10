@@ -1,0 +1,6 @@
+com\sriwin\kafka\exception\CoreException.class
+com\sriwin\kafka\utils\ExceptionUtil.class
+com\sriwin\kafka\service\ProduceService.class
+com\sriwin\kafka\utils\DirUtil.class
+com\sriwin\kafka\utils\AppConstants.class
+com\sriwin\kafka\utils\PropertyManager.class

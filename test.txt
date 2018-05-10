@@ -1,0 +1,1 @@
+{"carrCd" : "UA",  "fltNbr" : "0907",   "depStn" : "ORD",   "arrStn" : "FRA",   "tableName" : "flt",   "dbType": "mysql"}

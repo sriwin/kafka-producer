@@ -1,0 +1,10 @@
+{"carrCd" : "UA",  "fltNbr" : "0907",   "depStn" : "ORD",   "arrStn" : "FRA",   "tableName" : "flt",   "dbType": "mysql" ,   "actvInd": "1"}
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<connector dbType="mysql" table="flt">
+    <carrCd>UA</carrCd>
+    <fltNbr>1001</fltNbr>
+    <depStn>ORD</depStn>
+    <arrStn>LAX</arrStn>
+</connector>
